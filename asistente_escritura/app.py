@@ -6,7 +6,7 @@ from google import genai
 
 st.set_page_config(
     page_title="Asistente de Escritura Automática",
-    page_icon="✍️",
+    page_icon="✍️", 
     layout="centered",
 )
 
